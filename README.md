@@ -1,7 +1,7 @@
 - 👋 Hi, I’m VIKAS RAI
 - 👀 I’m interested in ... PROGRAMMING
 - 🌱 I’m currently learning ... WEB DEVELOPMENT
-- 💞️ I’m looking to collaborate on ... PROJECTS BASED ON HTML/CSS (frontend) OR MAYBE C/JAVA/PYTHON  
+- 💞️ I’m looking to collaborate on ...MERN stack Projects 
 - 📫 How to reach me ... vikasraivsr1234@gmail.com
 
 <!---
