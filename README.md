@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm Vikas Rai, a passionate sophomore undergrad and a full-stack web developer. With a keen interest in problem-solving and a strong foundation in Data Structures and Algorithms (DSA), I'm on an exciting journey to create innovative web solutions. My love for technology drives me to explore and contribute to the dynamic world of coding.
+I'm Vikas Rai, a passionate pre final year undergrad and a full-stack web developer. With a keen interest in problem-solving and a strong foundation in Data Structures and Algorithms, I'm on an exciting journey to create innovative web solutions. My love for technology drives me to explore and contribute to the dynamic world of coding.
 
 ## Projects
 
