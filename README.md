@@ -10,7 +10,7 @@ Feel free to explore my repositories where I showcase my coding projects and con
 
 ## Let's Connect
 
-Let's collaborate and build something awesome together! You can reach out to me through email or connect with me on LinkedIn [(https://www.linkedin.com/in/vikas-rai-63a26222b/)].
+Let's collaborate and build something awesome together! You can reach out to me through email or connect with me on LinkedIn [Vikas Rai](https://www.linkedin.com/in/vikas-rai-63a26222b/).
 
 Looking forward to connecting with fellow developers and tech enthusiasts. Happy coding! 🚀
 
